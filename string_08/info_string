@@ -1,0 +1,5 @@
+-> in c- programming string are stored as array of character means char name[]="ved";
+-> in java programming string is immutable so can't change once created.
+-> normally we make the new string for apply changes in string but more optimise way is to use
+   string builder class. it helps to apply operation like add,delete,modify,etc..
+-> when we write code ; there are two thing heap and stack.see video string builder
