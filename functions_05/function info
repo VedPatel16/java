@@ -1,0 +1,4 @@
+ -->in function identifier name rules
+    1) camelcase -> getData
+    2)get_data
+ --> all function stored in memory in stack form.
